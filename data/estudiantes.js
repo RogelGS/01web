@@ -1,0 +1,127 @@
+const matematicas = [{
+    "id": 1,
+    "first_name": "Joni",
+    "last_name": "Ripper",
+    "gender": "Genderqueer",
+    "photo": "https://robohash.org/voluptatibusautea.bmp?size=50x50&set=set1"
+}, {
+    "id": 2,
+    "first_name": "Galen",
+    "last_name": "Glassford",
+    "gender": "Agender",
+    "photo": "https://robohash.org/omnislaudantiumperspiciatis.bmp?size=50x50&set=set1"
+}, {
+    "id": 3,
+    "first_name": "Sher",
+    "last_name": "Janiszewski",
+    "gender": "Genderqueer",
+    "photo": "https://robohash.org/dictasuscipitunde.jpg?size=50x50&set=set1"
+}, {
+    "id": 4,
+    "first_name": "Tome",
+    "last_name": "McKibbin",
+    "gender": "Non-binary",
+    "photo": "https://robohash.org/reprehenderiteosimpedit.png?size=50x50&set=set1"
+}, {
+    "id": 5,
+    "first_name": "Cordelia",
+    "last_name": "Clench",
+    "gender": "Female",
+    "photo": "https://robohash.org/quorecusandaeet.png?size=50x50&set=set1"
+}, {
+    "id": 6,
+    "first_name": "Stavros",
+    "last_name": "Simoncelli",
+    "gender": "Non-binary",
+    "photo": "https://robohash.org/deseruntquisquamperferendis.jpg?size=50x50&set=set1"
+}, {
+    "id": 7,
+    "first_name": "Karmen",
+    "last_name": "Pinwill",
+    "gender": "Female",
+    "photo": "https://robohash.org/distinctioetet.jpg?size=50x50&set=set1"
+}, {
+    "id": 8,
+    "first_name": "Peria",
+    "last_name": "Leon",
+    "gender": "Male",
+    "photo": "https://robohash.org/illosedvoluptatem.png?size=50x50&set=set1"
+}, {
+    "id": 9,
+    "first_name": "Malcolm",
+    "last_name": "Leward",
+    "gender": "Male",
+    "photo": "https://robohash.org/porrominusharum.png?size=50x50&set=set1"
+}, {
+    "id": 10,
+    "first_name": "Giorgi",
+    "last_name": "Snowden",
+    "gender": "Female",
+    "photo": "https://robohash.org/officiaoditipsa.jpg?size=50x50&set=set1"
+}]
+
+const ciencias = [{
+    "id": 1,
+    "first_name": "Dominic",
+    "last_name": "Toynbee",
+    "gender": "Bigender",
+    "photo": "https://robohash.org/velitquiinventore.bmp?size=50x50&set=set1"
+}, {
+    "id": 2,
+    "first_name": "Hasty",
+    "last_name": "Angrove",
+    "gender": "Bigender",
+    "photo": "https://robohash.org/idsedfuga.jpg?size=50x50&set=set1"
+}, {
+    "id": 3,
+    "first_name": "Leesa",
+    "last_name": "Daldry",
+    "gender": "Polygender",
+    "photo": "https://robohash.org/autetut.jpg?size=50x50&set=set1"
+}, {
+    "id": 4,
+    "first_name": "Doris",
+    "last_name": "Cawse",
+    "gender": "Male",
+    "photo": "https://robohash.org/debitisminusmaxime.png?size=50x50&set=set1"
+}, {
+    "id": 5,
+    "first_name": "Marcellina",
+    "last_name": "Bottleson",
+    "gender": "Genderfluid",
+    "photo": "https://robohash.org/providentnesciuntet.jpg?size=50x50&set=set1"
+}, {
+    "id": 6,
+    "first_name": "Belia",
+    "last_name": "Dodding",
+    "gender": "Genderfluid",
+    "photo": "https://robohash.org/solutasedvoluptates.png?size=50x50&set=set1"
+}, {
+    "id": 7,
+    "first_name": "Mella",
+    "last_name": "Luetchford",
+    "gender": "Genderqueer",
+    "photo": "https://robohash.org/suscipitliberodolorum.jpg?size=50x50&set=set1"
+}, {
+    "id": 8,
+    "first_name": "Fiann",
+    "last_name": "Morch",
+    "gender": "Polygender",
+    "photo": "https://robohash.org/aperiamsuntet.bmp?size=50x50&set=set1"
+}, {
+    "id": 9,
+    "first_name": "Brigida",
+    "last_name": "MacDiarmid",
+    "gender": "Polygender",
+    "photo": "https://robohash.org/repellendusnamsit.png?size=50x50&set=set1"
+}, {
+    "id": 10,
+    "first_name": "Chrisy",
+    "last_name": "Carnie",
+    "gender": "Polygender",
+    "photo": "https://robohash.org/estfugaporro.bmp?size=50x50&set=set1"
+}]
+
+module.exports = {
+    matematicas, ciencias
+}
